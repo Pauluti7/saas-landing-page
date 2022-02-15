@@ -1,0 +1,28 @@
+@media (max-width: 360px) {
+  #googleplay {
+    margin-bottom: 20px;
+  }
+}
+
+#leftrightimage {
+  width: 100%;
+  height: auto;
+}
+
+.testimonialcard {
+  margin-top: 34px;
+  margin-bottom: -125px;
+}
+
+@media (max-width: 415px) {
+  #herocolumn {
+    padding-top: 0px !important;
+  }
+}
+
+@media (max-width: 415px) {
+  .testimonialcard {
+    padding-bottom: 130px !important;
+  }
+}
+
